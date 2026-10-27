@@ -1,0 +1,821 @@
+email_id,sender,subject,email_text,label
+EMAIL0774,offers@example.com,You are a winner!,Get a free phone by entering our prize draw.,spam
+EMAIL0234,student@college.example,Class notes,Please review the document before Friday. Thank you.,not spam
+EMAIL0441,student@college.example,Meeting update,Please let me know if you have any questions.,not spam
+EMAIL0338,support@service.example,Appointment confirmation,Happy birthday! Hope you have a wonderful day.,not spam
+EMAIL0716,team@work.example,Appointment confirmation,"Hi, can we move our meeting to tomorrow afternoon?",not spam
+EMAIL0007,team@work.example,,I have shared the photos from our trip.,not spam
+EMAIL0248,deals@shop-now.example,,URGENT: Your account needs verification. Click the link immediately. Thank you.,spam
+EMAIL0122,winner@promo-mail.com,Cash bonus available,Your card has a problem. Verify your information immediately.,spam
+EMAIL0053,teacher@college.example,Meeting update,Let's discuss the project requirements tomorrow. Please confirm.,not spam
+EMAIL0758,colleague@company.example,Appointment confirmation,I uploaded the latest version of the presentation. Thank you.,not spam
+EMAIL0280,alerts@secure-check.net,Special offer inside,Click here to activate your reward account. Offer valid today.,spam
+EMAIL0204,student@college.example,Quick question,Could you send me the notes from today's lecture?,not spam
+EMAIL0104,winner@promo-mail.com,Special offer inside,Exclusive deal: get more for less. Shop now. Please respond soon.,spam
+EMAIL0175,offers@example.com,Cash bonus available,Your package is on hold. Pay a small fee using this link.,spam
+EMAIL0510,winner@promo-mail.com,You are a winner!,Make money quickly with this simple secret method. Please respond soon.,spam
+EMAIL0504,colleague@company.example,Class notes,Please review the document before Friday. Please confirm.,not spam
+EMAIL0756,alerts@secure-check.net,Claim your reward,Click here to activate your reward account. Offer valid today.,spam
+EMAIL0438,colleague@company.example,Project report,Happy birthday! Hope you have a wonderful day. Best regards.,not spam
+EMAIL0648,rewards@claim-prize.example,Cash bonus available,Exclusive deal: get more for less. Shop now.,spam
+EMAIL0075,student@college.example,Project report,"Hi, can we move our meeting to tomorrow afternoon? Thank you.",not spam
+EMAIL0361,cash@quick-loan.example,Urgent account notice,Exclusive deal: get more for less. Shop now. Please respond soon.,spam
+EMAIL0221,offers@example.com,Cash bonus available,Make money quickly with this simple secret method.,spam
+EMAIL0626,support@service.example,Document for review,"Hi, can we move our meeting to tomorrow afternoon? Please confirm.",not spam
+EMAIL0583,deals@shop-now.example,Special offer inside,URGENT: Your account needs verification. Click the link immediately.,spam
+EMAIL0782,student@college.example,Meeting update,Please find the project report attached for your review.,not spam
+EMAIL0124,winner@promo-mail.com,Claim your reward,Special offer just for you! Subscribe today.,spam
+EMAIL0644,rewards@claim-prize.example,You are a winner!,Your free voucher is ready. Redeem it before it expires. Thank you.,spam
+EMAIL0553,deals@shop-now.example,Urgent account notice,Earn extra money from home with this amazing opportunity. Offer valid today.,spam
+EMAIL0500,deals@shop-now.example,Special offer inside,Congratulations! You won a free gift. Claim your prize now.,spam
+EMAIL0369,team@work.example,Meeting update,The invoice for last month is ready.,not spam
+EMAIL0207,rewards@claim-prize.example,You are a winner!,You are our lucky winner. Send your details to receive the prize. Offer valid today.,spam
+EMAIL0378,offers@example.com,Cash bonus available,You are our lucky winner. Send your details to receive the prize. Thank you.,spam
+EMAIL0185,offers@example.com,Claim your reward,Get a free phone by entering our prize draw. Thank you.,spam
+EMAIL0518,friend@mail.example,Meeting update,The team meeting has been moved to 3 PM.,not spam
+EMAIL0058,cash@quick-loan.example,Claim your reward,Act now to unlock your reward. This offer ends soon. Thank you.,spam
+EMAIL0499,deals@shop-now.example,You are a winner!,Your free voucher is ready. Redeem it before it expires. Offer valid today.,spam
+EMAIL0619,alerts@secure-check.net,Limited-time deal,Your package is on hold. Pay a small fee using this link. Please respond soon.,spam
+EMAIL0285,winner@promo-mail.com,Urgent account notice,Your package is on hold. Pay a small fee using this link. Offer valid today.,spam
+EMAIL0739,,Meeting update,Please let me know if you have any questions. Please confirm.,not spam
+EMAIL0694,teacher@college.example,Meeting update,I will call you after work to discuss the plan. Best regards.,not spam
+EMAIL0389,deals@shop-now.example,Special offer inside,Special offer just for you! Subscribe today.,spam
+EMAIL0669,support@service.example,Document for review,Your appointment is confirmed for Monday at 10 AM. Thank you.,not spam
+EMAIL0368,colleague@company.example,Appointment confirmation,Reminder: the library book is due next week. Thank you.,not spam
+EMAIL0238,colleague@company.example,Appointment confirmation,Thanks for your help with the assignment yesterday.,not spam
+EMAIL0052,cash@quick-loan.example,Claim your reward,"Congratulations, you qualify for a cash bonus. Please respond soon.",spam
+EMAIL0264,student@college.example,Appointment confirmation,I have shared the photos from our trip. Please confirm.,not spam
+EMAIL0747,rewards@claim-prize.example,Claim your reward,You have been selected for a special reward. Reply YES to claim.,spam
+EMAIL0616,colleague@company.example,Appointment confirmation,The class starts at 9 AM in room 204.,not spam
+EMAIL0687,winner@promo-mail.com,Claim your reward,Earn extra money from home with this amazing opportunity. Please respond soon.,spam
+EMAIL0746,student@college.example,Class notes,Could you send me the notes from today's lecture? Please confirm.,not spam
+EMAIL0200,,Quick question,Could you send me the notes from today's lecture?,not spam
+EMAIL0429,rewards@claim-prize.example,Limited-time deal,Act now to unlock your reward. This offer ends soon.,spam
+EMAIL0332,rewards@claim-prize.example,Special offer inside,Earn extra money from home with this amazing opportunity. Please respond soon.,spam
+EMAIL0679,student@college.example,Class notes,Your appointment is confirmed for Monday at 10 AM. Please confirm.,not spam
+EMAIL0602,alerts@secure-check.net,Urgent account notice,Exclusive deal: get more for less. Shop now. Thank you.,spam
+EMAIL0019,teacher@college.example,Class notes,Can you confirm whether you will attend the event? Best regards.,not spam
+EMAIL0588,cash@quick-loan.example,You are a winner!,,spam
+EMAIL0425,alerts@secure-check.net,Special offer inside,Exclusive deal: get more for less. Shop now. Offer valid today.,spam
+EMAIL0557,deals@shop-now.example,Limited-time deal,Your free voucher is ready. Redeem it before it expires. Offer valid today.,spam
+EMAIL0612,student@college.example,Class notes,I uploaded the latest version of the presentation. Please confirm.,not spam
+EMAIL0160,student@college.example,Meeting update,Reminder: the library book is due next week. Thank you.,not spam
+EMAIL0480,cash@quick-loan.example,You are a winner!,Your card has a problem. Verify your information immediately. Offer valid today.,spam
+EMAIL0057,team@work.example,Class notes,Thanks for your email. I will reply soon. Please confirm.,not spam
+EMAIL0778,winner@promo-mail.com,Limited-time deal,"Congratulations, you qualify for a cash bonus. Please respond soon.",spam
+EMAIL0115,colleague@company.example,Appointment confirmation,The invoice for last month is ready. Please confirm.,not spam
+EMAIL0040,offers@example.com,Cash bonus available,"Congratulations, you qualify for a cash bonus. Thank you.",spam
+EMAIL0641,winner@promo-mail.com,Limited-time deal,"Congratulations, you qualify for a cash bonus.",spam
+EMAIL0381,deals@shop-now.example,Cash bonus available,Act now to unlock your reward. This offer ends soon.,spam
+EMAIL0574,colleague@company.example,Meeting update,Can you confirm whether you will attend the event? Best regards.,not spam
+EMAIL0717,deals@shop-now.example,Claim your reward,Lowest prices guaranteed. Order today and save big. Please respond soon.,spam
+EMAIL0213,winner@promo-mail.com,Limited-time deal,Your free voucher is ready. Redeem it before it expires. Thank you.,spam
+EMAIL0135,winner@promo-mail.com,Claim your reward,You have been selected for a special reward. Reply YES to claim.,spam
+EMAIL0777,offers@example.com,Urgent account notice,Get a free phone by entering our prize draw. Offer valid today.,spam
+EMAIL0212,winner@promo-mail.com,Special offer inside,Your free voucher is ready. Redeem it before it expires.,spam
+EMAIL0031,colleague@company.example,Class notes,Reminder: the library book is due next week.,not spam
+EMAIL0347,support@service.example,Meeting update,I have shared the photos from our trip. Best regards.,not spam
+EMAIL0057,team@work.example,Class notes,Thanks for your email. I will reply soon. Please confirm.,not spam
+EMAIL0670,team@work.example,Meeting update,The interview is scheduled for Thursday morning.,not spam
+EMAIL0618,deals@shop-now.example,You are a winner!,Earn extra money from home with this amazing opportunity. Please respond soon.,spam
+EMAIL0562,alerts@secure-check.net,Special offer inside,Get a discount on your next purchase. Buy now! Thank you.,spam
+EMAIL0198,,Special offer inside,You are our lucky winner. Send your details to receive the prize. Thank you.,spam
+EMAIL0142,rewards@claim-prize.example,Special offer inside,Get a discount on your next purchase. Buy now!,spam
+EMAIL0003,deals@shop-now.example,Claim your reward,Earn extra money from home with this amazing opportunity. Please respond soon.,spam
+EMAIL0528,winner@promo-mail.com,Cash bonus available,Click here to activate your reward account. Offer valid today.,spam
+EMAIL0102,alerts@secure-check.net,Limited-time deal,,spam
+EMAIL0563,cash@quick-loan.example,Claim your reward,"Win cash today! Limited time offer, act now. Thank you.",spam
+EMAIL0373,friend@mail.example,Quick question,Your appointment is confirmed for Monday at 10 AM.,not spam
+EMAIL0681,offers@example.com,Limited-time deal,Exclusive deal: get more for less. Shop now. Thank you.,spam
+EMAIL0728,teacher@college.example,Appointment confirmation,The team meeting has been moved to 3 PM. Please confirm.,not spam
+EMAIL0148,teacher@college.example,Meeting update,Please review the document before Friday. Best regards.,not spam
+EMAIL0367,teacher@college.example,Appointment confirmation,Please find the project report attached for your review. Thank you.,not spam
+EMAIL0466,support@service.example,Document for review,The class starts at 9 AM in room 204. Thank you.,not spam
+EMAIL0188,winner@promo-mail.com,Claim your reward,You have been selected for a special reward. Reply YES to claim. Please respond soon.,spam
+EMAIL0497,alerts@secure-check.net,Urgent account notice,Your card has a problem. Verify your information immediately. Thank you.,spam
+EMAIL0573,cash@quick-loan.example,Limited-time deal,Get a discount on your next purchase. Buy now! Please respond soon.,spam
+EMAIL0072,colleague@company.example,Appointment confirmation,Let's discuss the project requirements tomorrow. Thank you.,not spam
+EMAIL0475,alerts@secure-check.net,Urgent account notice,Your free voucher is ready. Redeem it before it expires. Please respond soon.,spam
+EMAIL0536,colleague@company.example,Meeting update,The interview is scheduled for Thursday morning. Thank you.,not spam
+EMAIL0330,friend@mail.example,Document for review,Thanks for your email. I will reply soon. Best regards.,not spam
+EMAIL0727,alerts@secure-check.net,,Get a free phone by entering our prize draw. Offer valid today.,spam
+EMAIL0568,alerts@secure-check.net,You are a winner!,You have been selected for a special reward. Reply YES to claim.,spam
+EMAIL0587,rewards@claim-prize.example,Urgent account notice,Exclusive deal: get more for less. Shop now. Please respond soon.,spam
+EMAIL0483,teacher@college.example,Class notes,Your appointment is confirmed for Monday at 10 AM. Best regards.,not spam
+EMAIL0017,cash@quick-loan.example,Cash bonus available,You are our lucky winner. Send your details to receive the prize. Thank you.,spam
+EMAIL0077,friend@mail.example,Project report,I will call you after work to discuss the plan. Thank you.,not spam
+EMAIL0163,rewards@claim-prize.example,Claim your reward,Your free voucher is ready. Redeem it before it expires.,spam
+EMAIL0228,deals@shop-now.example,Limited-time deal,URGENT: Your account needs verification. Click the link immediately. Offer valid today.,spam
+EMAIL0789,colleague@company.example,Project report,,not spam
+EMAIL0084,teacher@college.example,Quick question,Please review the document before Friday. Thank you.,not spam
+EMAIL0750,friend@mail.example,Class notes,Thanks for your email. I will reply soon. Best regards.,not spam
+EMAIL0147,cash@quick-loan.example,Cash bonus available,"Win cash today! Limited time offer, act now. Please respond soon.",spam
+EMAIL0109,cash@quick-loan.example,Cash bonus available,Earn extra money from home with this amazing opportunity.,spam
+EMAIL0339,alerts@secure-check.net,Special offer inside,,spam
+EMAIL0759,friend@mail.example,Document for review,Let's discuss the project requirements tomorrow. Best regards.,not spam
+EMAIL0519,winner@promo-mail.com,Limited-time deal,Your package is on hold. Pay a small fee using this link.,spam
+EMAIL0119,cash@quick-loan.example,Claim your reward,Your package is on hold. Pay a small fee using this link. Please respond soon.,spam
+EMAIL0741,alerts@secure-check.net,Urgent account notice,Your card has a problem. Verify your information immediately.,spam
+EMAIL0490,,Document for review,,not spam
+EMAIL0152,colleague@company.example,Document for review,Your appointment is confirmed for Monday at 10 AM.,not spam
+EMAIL0740,rewards@claim-prize.example,,Your package is on hold. Pay a small fee using this link.,spam
+EMAIL0530,student@college.example,Appointment confirmation,Let's discuss the project requirements tomorrow. Best regards.,not spam
+EMAIL0720,friend@mail.example,Quick question,Please let me know if you have any questions. Please confirm.,not spam
+EMAIL0410,deals@shop-now.example,Limited-time deal,Exclusive deal: get more for less. Shop now. Offer valid today.,spam
+EMAIL0244,team@work.example,Project report,Thanks for your help with the assignment yesterday. Please confirm.,not spam
+EMAIL0114,student@college.example,Meeting update,Please find the project report attached for your review. Please confirm.,not spam
+EMAIL0223,colleague@company.example,Document for review,Your order has shipped and should arrive on Friday. Thank you.,not spam
+EMAIL0282,rewards@claim-prize.example,Cash bonus available,Click here to activate your reward account. Thank you.,spam
+EMAIL0431,support@service.example,Project report,Reminder: the library book is due next week.,not spam
+EMAIL0704,deals@shop-now.example,Special offer inside,Get a discount on your next purchase. Buy now! Offer valid today.,spam
+EMAIL0375,teacher@college.example,Project report,The class starts at 9 AM in room 204. Thank you.,not spam
+EMAIL0024,alerts@secure-check.net,Special offer inside,Exclusive deal: get more for less. Shop now. Offer valid today.,spam
+EMAIL0534,rewards@claim-prize.example,Claim your reward,Make money quickly with this simple secret method. Offer valid today.,spam
+EMAIL0421,cash@quick-loan.example,Limited-time deal,Earn extra money from home with this amazing opportunity.,spam
+EMAIL0544,support@service.example,Appointment confirmation,The team meeting has been moved to 3 PM.,not spam
+EMAIL0409,support@service.example,Project report,The invoice for last month is ready. Please confirm.,not spam
+EMAIL0393,alerts@secure-check.net,Limited-time deal,Your loan is pre-approved. Apply now for quick cash. Please respond soon.,spam
+EMAIL0540,offers@example.com,Special offer inside,Your package is on hold. Pay a small fee using this link. Offer valid today.,spam
+EMAIL0743,student@college.example,Document for review,,not spam
+EMAIL0399,team@work.example,Quick question,The invoice for last month is ready. Thank you.,not spam
+EMAIL0416,team@work.example,Meeting update,The interview is scheduled for Thursday morning. Best regards.,not spam
+EMAIL0307,alerts@secure-check.net,Limited-time deal,Claim your exclusive bonus now by visiting our website.,spam
+EMAIL0269,friend@mail.example,Appointment confirmation,Thanks for your help with the assignment yesterday. Please confirm.,not spam
+EMAIL0434,student@college.example,Class notes,The team meeting has been moved to 3 PM. Please confirm.,not spam
+EMAIL0691,teacher@college.example,Document for review,"Hi, can we move our meeting to tomorrow afternoon? Best regards.",not spam
+EMAIL0693,student@college.example,Document for review,Thanks for your email. I will reply soon. Thank you.,not spam
+EMAIL0359,support@service.example,Class notes,I have shared the photos from our trip. Best regards.,not spam
+EMAIL0432,offers@example.com,Special offer inside,Get a discount on your next purchase. Buy now! Thank you.,spam
+EMAIL0243,support@service.example,Meeting update,Your order has shipped and should arrive on Friday. Best regards.,not spam
+EMAIL0030,winner@promo-mail.com,Special offer inside,Lowest prices guaranteed. Order today and save big. Offer valid today.,spam
+EMAIL0261,offers@example.com,Limited-time deal,Make money quickly with this simple secret method. Thank you.,spam
+EMAIL0180,student@college.example,Appointment confirmation,Can you confirm whether you will attend the event?,not spam
+EMAIL0173,offers@example.com,Cash bonus available,Get a free phone by entering our prize draw. Offer valid today.,spam
+EMAIL0144,team@work.example,Project report,The invoice for last month is ready.,not spam
+EMAIL0732,deals@shop-now.example,Urgent account notice,URGENT: Your account needs verification. Click the link immediately. Please respond soon.,spam
+EMAIL0284,cash@quick-loan.example,Special offer inside,Exclusive deal: get more for less. Shop now.,spam
+EMAIL0769,teacher@college.example,Quick question,The team meeting has been moved to 3 PM. Please confirm.,not spam
+EMAIL0128,colleague@company.example,Document for review,Could you send me the notes from today's lecture? Please confirm.,not spam
+EMAIL0372,alerts@secure-check.net,Claim your reward,You are our lucky winner. Send your details to receive the prize. Please respond soon.,spam
+EMAIL0634,colleague@company.example,Document for review,Reminder: the library book is due next week. Thank you.,not spam
+EMAIL0478,offers@example.com,Claim your reward,"Win cash today! Limited time offer, act now. Offer valid today.",spam
+EMAIL0550,deals@shop-now.example,Special offer inside,Congratulations! You won a free gift. Claim your prize now. Offer valid today.,spam
+EMAIL0174,rewards@claim-prize.example,Urgent account notice,Your package is on hold. Pay a small fee using this link. Please respond soon.,spam
+EMAIL0015,alerts@secure-check.net,Claim your reward,Make money quickly with this simple secret method. Offer valid today.,spam
+EMAIL0093,rewards@claim-prize.example,Limited-time deal,You are our lucky winner. Send your details to receive the prize.,spam
+EMAIL0796,rewards@claim-prize.example,Special offer inside,Claim your exclusive bonus now by visiting our website. Offer valid today.,spam
+EMAIL0063,teacher@college.example,Project report,Could you send me the notes from today's lecture? Please confirm.,not spam
+EMAIL0597,friend@mail.example,Document for review,Can you confirm whether you will attend the event?,not spam
+EMAIL0674,friend@mail.example,Class notes,Let's discuss the project requirements tomorrow.,not spam
+EMAIL0161,student@college.example,Quick question,The team meeting has been moved to 3 PM. Thank you.,not spam
+EMAIL0736,winner@promo-mail.com,You are a winner!,Get a discount on your next purchase. Buy now!,spam
+EMAIL0764,winner@promo-mail.com,Urgent account notice,Make money quickly with this simple secret method. Thank you.,spam
+EMAIL0607,friend@mail.example,Meeting update,Reminder: the library book is due next week. Best regards.,not spam
+EMAIL0647,alerts@secure-check.net,Special offer inside,You are our lucky winner. Send your details to receive the prize. Thank you.,spam
+EMAIL0027,rewards@claim-prize.example,Cash bonus available,Make money quickly with this simple secret method.,spam
+EMAIL0009,friend@mail.example,Meeting update,Please find the project report attached for your review. Please confirm.,not spam
+EMAIL0247,support@service.example,Document for review,I will call you after work to discuss the plan. Best regards.,not spam
+EMAIL0193,student@college.example,Document for review,Could you send me the notes from today's lecture?,not spam
+EMAIL0387,offers@example.com,Cash bonus available,Special offer just for you! Subscribe today. Offer valid today.,spam
+EMAIL0195,support@service.example,Project report,Please review the document before Friday.,not spam
+EMAIL0678,deals@shop-now.example,Cash bonus available,Exclusive deal: get more for less. Shop now. Please respond soon.,spam
+EMAIL0784,winner@promo-mail.com,Special offer inside,You have been selected for a special reward. Reply YES to claim. Please respond soon.,spam
+EMAIL0658,friend@mail.example,Appointment confirmation,The class starts at 9 AM in room 204. Thank you.,not spam
+EMAIL0166,alerts@secure-check.net,Special offer inside,Your package is on hold. Pay a small fee using this link. Offer valid today.,spam
+EMAIL0712,offers@example.com,Special offer inside,URGENT: Your account needs verification. Click the link immediately. Please respond soon.,spam
+EMAIL0168,deals@shop-now.example,Cash bonus available,Your loan is pre-approved. Apply now for quick cash. Please respond soon.,spam
+EMAIL0149,winner@promo-mail.com,Claim your reward,Lowest prices guaranteed. Order today and save big. Thank you.,spam
+EMAIL0252,teacher@college.example,Quick question,,not spam
+EMAIL0689,teacher@college.example,Class notes,I have shared the photos from our trip.,not spam
+EMAIL0331,winner@promo-mail.com,Claim your reward,Make money quickly with this simple secret method.,spam
+EMAIL0487,support@service.example,Project report,Happy birthday! Hope you have a wonderful day. Thank you.,not spam
+EMAIL0101,alerts@secure-check.net,Cash bonus available,Your loan is pre-approved. Apply now for quick cash.,spam
+EMAIL0502,offers@example.com,Cash bonus available,Your card has a problem. Verify your information immediately. Thank you.,spam
+EMAIL0716,team@work.example,Appointment confirmation,"Hi, can we move our meeting to tomorrow afternoon?",not spam
+EMAIL0326,offers@example.com,Claim your reward,Make money quickly with this simple secret method. Thank you.,spam
+EMAIL0683,friend@mail.example,Quick question,The interview is scheduled for Thursday morning. Please confirm.,not spam
+EMAIL0231,support@service.example,Project report,I will call you after work to discuss the plan. Please confirm.,not spam
+EMAIL0328,alerts@secure-check.net,Special offer inside,,spam
+EMAIL0428,cash@quick-loan.example,Limited-time deal,Your free voucher is ready. Redeem it before it expires.,spam
+EMAIL0259,friend@mail.example,Project report,Reminder: the library book is due next week. Best regards.,not spam
+EMAIL0700,teacher@college.example,Quick question,Could you send me the notes from today's lecture? Best regards.,not spam
+EMAIL0219,alerts@secure-check.net,You are a winner!,You have been selected for a special reward. Reply YES to claim.,spam
+EMAIL0318,alerts@secure-check.net,Special offer inside,Congratulations! You won a free gift. Claim your prize now. Thank you.,spam
+EMAIL0045,support@service.example,Quick question,Let's discuss the project requirements tomorrow.,not spam
+EMAIL0492,cash@quick-loan.example,Special offer inside,Your package is on hold. Pay a small fee using this link. Please respond soon.,spam
+EMAIL0091,student@college.example,Document for review,The class starts at 9 AM in room 204. Best regards.,not spam
+EMAIL0507,student@college.example,Appointment confirmation,Reminder: the library book is due next week.,not spam
+EMAIL0254,teacher@college.example,Document for review,I will call you after work to discuss the plan. Best regards.,not spam
+EMAIL0426,teacher@college.example,Meeting update,Can you confirm whether you will attend the event?,not spam
+EMAIL0125,student@college.example,Appointment confirmation,The interview is scheduled for Thursday morning. Best regards.,not spam
+EMAIL0768,teacher@college.example,Appointment confirmation,I have shared the photos from our trip. Best regards.,not spam
+EMAIL0304,alerts@secure-check.net,Claim your reward,Earn extra money from home with this amazing opportunity. Thank you.,spam
+EMAIL0188,winner@promo-mail.com,Claim your reward,You have been selected for a special reward. Reply YES to claim. Please respond soon.,spam
+EMAIL0001,offers@example.com,Claim your reward,Your package is on hold. Pay a small fee using this link. Thank you.,spam
+EMAIL0646,cash@quick-loan.example,Claim your reward,You have been selected for a special reward. Reply YES to claim. Thank you.,spam
+EMAIL0779,alerts@secure-check.net,Special offer inside,Exclusive deal: get more for less. Shop now. Please respond soon.,spam
+EMAIL0448,student@college.example,Appointment confirmation,Thanks for your help with the assignment yesterday. Thank you.,not spam
+EMAIL0322,team@work.example,Project report,Thanks for your email. I will reply soon. Best regards.,not spam
+EMAIL0627,alerts@secure-check.net,Claim your reward,Special offer just for you! Subscribe today.,spam
+EMAIL0145,alerts@secure-check.net,Urgent account notice,Lowest prices guaranteed. Order today and save big. Please respond soon.,spam
+EMAIL0294,deals@shop-now.example,You are a winner!,Your free voucher is ready. Redeem it before it expires. Offer valid today.,spam
+EMAIL0006,teacher@college.example,Document for review,Can you confirm whether you will attend the event? Best regards.,not spam
+EMAIL0316,support@service.example,Appointment confirmation,The class starts at 9 AM in room 204. Best regards.,not spam
+EMAIL0233,rewards@claim-prize.example,You are a winner!,Get a discount on your next purchase. Buy now! Please respond soon.,spam
+EMAIL0620,cash@quick-loan.example,Special offer inside,"Congratulations, you qualify for a cash bonus. Thank you.",spam
+EMAIL0276,alerts@secure-check.net,Special offer inside,Your card has a problem. Verify your information immediately. Please respond soon.,spam
+EMAIL0649,friend@mail.example,Meeting update,"Hi, can we move our meeting to tomorrow afternoon? Best regards.",not spam
+EMAIL0412,alerts@secure-check.net,You are a winner!,"Win cash today! Limited time offer, act now. Offer valid today.",spam
+EMAIL0208,cash@quick-loan.example,Cash bonus available,Your free voucher is ready. Redeem it before it expires. Offer valid today.,spam
+EMAIL0596,student@college.example,Quick question,"Hi, can we move our meeting to tomorrow afternoon? Thank you.",not spam
+EMAIL0323,student@college.example,Quick question,"Hi, can we move our meeting to tomorrow afternoon? Please confirm.",not spam
+EMAIL0440,winner@promo-mail.com,You are a winner!,Make money quickly with this simple secret method. Offer valid today.,spam
+EMAIL0062,support@service.example,Meeting update,The class starts at 9 AM in room 204. Thank you.,not spam
+EMAIL0521,friend@mail.example,,Please review the document before Friday. Please confirm.,not spam
+EMAIL0206,,Claim your reward,Click here to activate your reward account. Please respond soon.,spam
+EMAIL0469,team@work.example,Document for review,The class starts at 9 AM in room 204. Best regards.,not spam
+EMAIL0508,winner@promo-mail.com,You are a winner!,Your package is on hold. Pay a small fee using this link.,spam
+EMAIL0599,colleague@company.example,Meeting update,Please review the document before Friday. Thank you.,not spam
+EMAIL0459,alerts@secure-check.net,Special offer inside,"Win cash today! Limited time offer, act now. Thank you.",spam
+EMAIL0310,deals@shop-now.example,Cash bonus available,"Congratulations, you qualify for a cash bonus. Offer valid today.",spam
+EMAIL0112,support@service.example,Class notes,Happy birthday! Hope you have a wonderful day.,not spam
+EMAIL0638,rewards@claim-prize.example,Urgent account notice,Make money quickly with this simple secret method.,spam
+EMAIL0444,team@work.example,Class notes,The team meeting has been moved to 3 PM. Thank you.,not spam
+EMAIL0350,student@college.example,Document for review,Your order has shipped and should arrive on Friday.,not spam
+EMAIL0698,student@college.example,Project report,Thanks for your email. I will reply soon. Please confirm.,not spam
+EMAIL0430,deals@shop-now.example,Cash bonus available,Exclusive deal: get more for less. Shop now. Offer valid today.,spam
+EMAIL0286,offers@example.com,Cash bonus available,Lowest prices guaranteed. Order today and save big. Thank you.,spam
+EMAIL0380,offers@example.com,Cash bonus available,Act now to unlock your reward. This offer ends soon.,spam
+EMAIL0165,alerts@secure-check.net,Urgent account notice,URGENT: Your account needs verification. Click the link immediately.,spam
+EMAIL0025,teacher@college.example,Quick question,Happy birthday! Hope you have a wonderful day. Thank you.,not spam
+EMAIL0237,winner@promo-mail.com,You are a winner!,Click here to activate your reward account. Please respond soon.,spam
+EMAIL0591,offers@example.com,Urgent account notice,Act now to unlock your reward. This offer ends soon. Thank you.,spam
+EMAIL0662,alerts@secure-check.net,Limited-time deal,Get a discount on your next purchase. Buy now! Offer valid today.,spam
+EMAIL0615,cash@quick-loan.example,Limited-time deal,Your free voucher is ready. Redeem it before it expires. Please respond soon.,spam
+EMAIL0703,deals@shop-now.example,You are a winner!,Special offer just for you! Subscribe today. Please respond soon.,spam
+EMAIL0061,support@service.example,Document for review,Happy birthday! Hope you have a wonderful day. Thank you.,not spam
+EMAIL0154,student@college.example,Class notes,Your appointment is confirmed for Monday at 10 AM. Best regards.,not spam
+EMAIL0303,deals@shop-now.example,Cash bonus available,"Congratulations, you qualify for a cash bonus. Offer valid today.",spam
+EMAIL0584,cash@quick-loan.example,Cash bonus available,Make money quickly with this simple secret method.,spam
+EMAIL0673,rewards@claim-prize.example,Claim your reward,Earn extra money from home with this amazing opportunity.,spam
+EMAIL0751,deals@shop-now.example,Limited-time deal,Earn extra money from home with this amazing opportunity. Please respond soon.,spam
+EMAIL0491,deals@shop-now.example,Cash bonus available,Special offer just for you! Subscribe today. Thank you.,spam
+EMAIL0385,rewards@claim-prize.example,You are a winner!,Lowest prices guaranteed. Order today and save big. Please respond soon.,spam
+EMAIL0775,support@service.example,Meeting update,The team meeting has been moved to 3 PM. Please confirm.,not spam
+EMAIL0601,deals@shop-now.example,You are a winner!,"Congratulations, you qualify for a cash bonus.",spam
+EMAIL0640,rewards@claim-prize.example,Limited-time deal,Act now to unlock your reward. This offer ends soon.,spam
+EMAIL0632,offers@example.com,Special offer inside,Act now to unlock your reward. This offer ends soon. Offer valid today.,spam
+EMAIL0155,alerts@secure-check.net,Cash bonus available,Claim your exclusive bonus now by visiting our website. Thank you.,spam
+EMAIL0453,deals@shop-now.example,Limited-time deal,"Win cash today! Limited time offer, act now. Please respond soon.",spam
+EMAIL0757,cash@quick-loan.example,Limited-time deal,Special offer just for you! Subscribe today. Thank you.,spam
+EMAIL0787,friend@mail.example,,The interview is scheduled for Thursday morning. Please confirm.,not spam
+EMAIL0127,winner@promo-mail.com,Limited-time deal,"Congratulations, you qualify for a cash bonus. Thank you.",spam
+EMAIL0363,friend@mail.example,Quick question,Please find the project report attached for your review. Thank you.,not spam
+EMAIL0622,student@college.example,Class notes,The invoice for last month is ready.,not spam
+EMAIL0131,friend@mail.example,Appointment confirmation,I have shared the photos from our trip.,not spam
+EMAIL0654,winner@promo-mail.com,Urgent account notice,Click here to activate your reward account. Offer valid today.,spam
+EMAIL0626,support@service.example,Document for review,"Hi, can we move our meeting to tomorrow afternoon? Please confirm.",not spam
+EMAIL0037,teacher@college.example,Appointment confirmation,Please find the project report attached for your review.,not spam
+EMAIL0201,colleague@company.example,Meeting update,Your order has shipped and should arrive on Friday. Please confirm.,not spam
+EMAIL0598,team@work.example,Project report,I will call you after work to discuss the plan.,not spam
+EMAIL0156,support@service.example,Quick question,Please review the document before Friday. Best regards.,not spam
+EMAIL0783,friend@mail.example,Class notes,Thanks for your help with the assignment yesterday. Please confirm.,not spam
+EMAIL0079,alerts@secure-check.net,Cash bonus available,Claim your exclusive bonus now by visiting our website. Please respond soon.,spam
+EMAIL0349,support@service.example,Document for review,I uploaded the latest version of the presentation. Best regards.,not spam
+EMAIL0731,alerts@secure-check.net,Special offer inside,"Win cash today! Limited time offer, act now. Thank you.",spam
+EMAIL0450,support@service.example,Document for review,I will call you after work to discuss the plan.,not spam
+EMAIL0657,rewards@claim-prize.example,Claim your reward,Get a discount on your next purchase. Buy now! Please respond soon.,spam
+EMAIL0178,team@work.example,Quick question,Please let me know if you have any questions. Please confirm.,not spam
+EMAIL0301,cash@quick-loan.example,Cash bonus available,Special offer just for you! Subscribe today. Offer valid today.,spam
+EMAIL0032,student@college.example,Appointment confirmation,Your appointment is confirmed for Monday at 10 AM.,not spam
+EMAIL0060,teacher@college.example,Quick question,Reminder: the library book is due next week. Thank you.,not spam
+EMAIL0473,support@service.example,Class notes,The invoice for last month is ready.,not spam
+EMAIL0682,friend@mail.example,Meeting update,Thanks for your help with the assignment yesterday. Please confirm.,not spam
+EMAIL0022,deals@shop-now.example,Special offer inside,Claim your exclusive bonus now by visiting our website. Please respond soon.,spam
+EMAIL0495,alerts@secure-check.net,Special offer inside,Get a free phone by entering our prize draw. Thank you.,spam
+EMAIL0753,offers@example.com,Limited-time deal,Your free voucher is ready. Redeem it before it expires. Please respond soon.,spam
+EMAIL0226,deals@shop-now.example,Claim your reward,Your package is on hold. Pay a small fee using this link. Offer valid today.,spam
+EMAIL0744,colleague@company.example,Document for review,Please review the document before Friday. Thank you.,not spam
+EMAIL0337,deals@shop-now.example,Claim your reward,Click here to activate your reward account. Thank you.,spam
+EMAIL0659,deals@shop-now.example,Limited-time deal,Earn extra money from home with this amazing opportunity. Offer valid today.,spam
+EMAIL0526,student@college.example,Project report,The invoice for last month is ready.,not spam
+EMAIL0442,cash@quick-loan.example,Urgent account notice,Your card has a problem. Verify your information immediately.,spam
+EMAIL0355,student@college.example,Appointment confirmation,Thanks for your email. I will reply soon.,not spam
+EMAIL0538,teacher@college.example,Project report,Please find the project report attached for your review. Best regards.,not spam
+EMAIL0560,colleague@company.example,Class notes,The team meeting has been moved to 3 PM. Thank you.,not spam
+EMAIL0216,teacher@college.example,Document for review,Thanks for your help with the assignment yesterday.,not spam
+EMAIL0511,support@service.example,Meeting update,"Hi, can we move our meeting to tomorrow afternoon? Please confirm.",not spam
+EMAIL0493,colleague@company.example,Document for review,I will call you after work to discuss the plan. Please confirm.,not spam
+EMAIL0752,rewards@claim-prize.example,Special offer inside,Your free voucher is ready. Redeem it before it expires. Offer valid today.,spam
+EMAIL0085,support@service.example,Document for review,Thanks for your help with the assignment yesterday. Best regards.,not spam
+EMAIL0333,friend@mail.example,Document for review,Reminder: the library book is due next week. Please confirm.,not spam
+EMAIL0054,rewards@claim-prize.example,Urgent account notice,Make money quickly with this simple secret method. Thank you.,spam
+EMAIL0529,support@service.example,Meeting update,Could you send me the notes from today's lecture? Best regards.,not spam
+EMAIL0696,friend@mail.example,Class notes,Could you send me the notes from today's lecture?,not spam
+EMAIL0554,alerts@secure-check.net,Cash bonus available,Click here to activate your reward account. Thank you.,spam
+EMAIL0411,deals@shop-now.example,Special offer inside,Lowest prices guaranteed. Order today and save big. Offer valid today.,spam
+EMAIL0116,teacher@college.example,Class notes,Your appointment is confirmed for Monday at 10 AM. Thank you.,not spam
+EMAIL0256,alerts@secure-check.net,Claim your reward,Your card has a problem. Verify your information immediately.,spam
+EMAIL0129,deals@shop-now.example,Cash bonus available,Exclusive deal: get more for less. Shop now. Offer valid today.,spam
+EMAIL0397,colleague@company.example,Quick question,Could you send me the notes from today's lecture? Best regards.,not spam
+EMAIL0452,support@service.example,Appointment confirmation,I have shared the photos from our trip. Please confirm.,not spam
+EMAIL0608,friend@mail.example,Document for review,Thanks for your email. I will reply soon. Best regards.,not spam
+EMAIL0123,rewards@claim-prize.example,Special offer inside,"Win cash today! Limited time offer, act now.",spam
+EMAIL0281,friend@mail.example,Project report,The team meeting has been moved to 3 PM. Best regards.,not spam
+EMAIL0376,student@college.example,Class notes,Please review the document before Friday. Thank you.,not spam
+EMAIL0087,rewards@claim-prize.example,Limited-time deal,Click here to activate your reward account. Thank you.,spam
+EMAIL0051,offers@example.com,Urgent account notice,Your card has a problem. Verify your information immediately. Thank you.,spam
+EMAIL0600,student@college.example,Meeting update,The interview is scheduled for Thursday morning. Please confirm.,not spam
+EMAIL0134,student@college.example,Project report,The team meeting has been moved to 3 PM. Best regards.,not spam
+EMAIL0194,student@college.example,Class notes,Your order has shipped and should arrive on Friday. Thank you.,not spam
+EMAIL0405,rewards@claim-prize.example,Cash bonus available,Your loan is pre-approved. Apply now for quick cash.,spam
+EMAIL0462,support@service.example,Document for review,Please let me know if you have any questions. Thank you.,not spam
+EMAIL0523,colleague@company.example,Meeting update,,not spam
+EMAIL0761,teacher@college.example,Project report,Reminder: the library book is due next week. Please confirm.,not spam
+EMAIL0589,teacher@college.example,Appointment confirmation,Thanks for your email. I will reply soon. Best regards.,not spam
+EMAIL0205,teacher@college.example,Quick question,The class starts at 9 AM in room 204. Please confirm.,not spam
+EMAIL0043,deals@shop-now.example,Cash bonus available,"Win cash today! Limited time offer, act now.",spam
+EMAIL0403,friend@mail.example,Appointment confirmation,Please let me know if you have any questions. Please confirm.,not spam
+EMAIL0187,colleague@company.example,Project report,The invoice for last month is ready.,not spam
+EMAIL0760,colleague@company.example,Meeting update,Reminder: the library book is due next week. Please confirm.,not spam
+EMAIL0699,student@college.example,Document for review,I uploaded the latest version of the presentation. Best regards.,not spam
+EMAIL0765,winner@promo-mail.com,Claim your reward,"Congratulations, you qualify for a cash bonus. Offer valid today.",spam
+EMAIL0073,colleague@company.example,Document for review,Thanks for your help with the assignment yesterday. Thank you.,not spam
+EMAIL0427,colleague@company.example,Appointment confirmation,I will call you after work to discuss the plan.,not spam
+EMAIL0002,colleague@company.example,Quick question,I will call you after work to discuss the plan. Please confirm.,not spam
+EMAIL0240,winner@promo-mail.com,Cash bonus available,Your package is on hold. Pay a small fee using this link. Please respond soon.,spam
+EMAIL0603,student@college.example,Project report,Thanks for your help with the assignment yesterday. Best regards.,not spam
+EMAIL0176,teacher@college.example,Class notes,The interview is scheduled for Thursday morning.,not spam
+EMAIL0055,rewards@claim-prize.example,Claim your reward,Get a discount on your next purchase. Buy now!,spam
+EMAIL0496,colleague@company.example,Quick question,Please review the document before Friday.,not spam
+EMAIL0506,winner@promo-mail.com,Claim your reward,URGENT: Your account needs verification. Click the link immediately. Thank you.,spam
+EMAIL0088,support@service.example,Class notes,Your order has shipped and should arrive on Friday. Thank you.,not spam
+EMAIL0279,support@service.example,Document for review,Reminder: the library book is due next week. Best regards.,not spam
+EMAIL0081,colleague@company.example,Appointment confirmation,I will call you after work to discuss the plan. Thank you.,not spam
+EMAIL0734,alerts@secure-check.net,Special offer inside,Your card has a problem. Verify your information immediately.,spam
+EMAIL0424,teacher@college.example,Class notes,,not spam
+EMAIL0056,winner@promo-mail.com,Claim your reward,Lowest prices guaranteed. Order today and save big.,spam
+EMAIL0735,student@college.example,Class notes,Your order has shipped and should arrive on Friday.,not spam
+EMAIL0222,colleague@company.example,Document for review,Please find the project report attached for your review. Best regards.,not spam
+EMAIL0016,cash@quick-loan.example,Limited-time deal,Act now to unlock your reward. This offer ends soon. Thank you.,spam
+EMAIL0443,team@work.example,Document for review,Can you confirm whether you will attend the event? Thank you.,not spam
+EMAIL0225,alerts@secure-check.net,Cash bonus available,Special offer just for you! Subscribe today. Thank you.,spam
+EMAIL0505,winner@promo-mail.com,Urgent account notice,Special offer just for you! Subscribe today. Please respond soon.,spam
+EMAIL0313,support@service.example,Meeting update,"Hi, can we move our meeting to tomorrow afternoon? Best regards.",not spam
+EMAIL0311,teacher@college.example,Quick question,Can you confirm whether you will attend the event? Best regards.,not spam
+EMAIL0639,cash@quick-loan.example,You are a winner!,Your package is on hold. Pay a small fee using this link. Please respond soon.,spam
+EMAIL0570,winner@promo-mail.com,Claim your reward,Act now to unlock your reward. This offer ends soon. Offer valid today.,spam
+EMAIL0382,alerts@secure-check.net,Limited-time deal,Get a free phone by entering our prize draw. Please respond soon.,spam
+EMAIL0100,winner@promo-mail.com,Special offer inside,Earn extra money from home with this amazing opportunity. Offer valid today.,spam
+EMAIL0401,winner@promo-mail.com,You are a winner!,Exclusive deal: get more for less. Shop now.,spam
+EMAIL0406,winner@promo-mail.com,Urgent account notice,Your card has a problem. Verify your information immediately. Please respond soon.,spam
+EMAIL0169,friend@mail.example,Quick question,Please let me know if you have any questions. Best regards.,not spam
+EMAIL0038,alerts@secure-check.net,Limited-time deal,Lowest prices guaranteed. Order today and save big. Please respond soon.,spam
+EMAIL0287,winner@promo-mail.com,Cash bonus available,Act now to unlock your reward. This offer ends soon. Please respond soon.,spam
+EMAIL0215,colleague@company.example,Quick question,Thanks for your email. I will reply soon. Best regards.,not spam
+EMAIL0262,friend@mail.example,Appointment confirmation,I will call you after work to discuss the plan. Please confirm.,not spam
+EMAIL0635,offers@example.com,Limited-time deal,Make money quickly with this simple secret method. Please respond soon.,spam
+EMAIL0139,friend@mail.example,Appointment confirmation,Could you send me the notes from today's lecture?,not spam
+EMAIL0423,winner@promo-mail.com,Urgent account notice,Your free voucher is ready. Redeem it before it expires. Offer valid today.,spam
+EMAIL0586,teacher@college.example,Appointment confirmation,Please let me know if you have any questions. Please confirm.,not spam
+EMAIL0241,alerts@secure-check.net,You are a winner!,You are our lucky winner. Send your details to receive the prize. Offer valid today.,spam
+EMAIL0291,winner@promo-mail.com,Urgent account notice,Click here to activate your reward account. Offer valid today.,spam
+EMAIL0137,student@college.example,Document for review,Please review the document before Friday. Please confirm.,not spam
+EMAIL0697,student@college.example,Appointment confirmation,Let's discuss the project requirements tomorrow. Best regards.,not spam
+EMAIL0245,colleague@company.example,Class notes,Please find the project report attached for your review. Best regards.,not spam
+EMAIL0358,alerts@secure-check.net,Special offer inside,Your package is on hold. Pay a small fee using this link. Offer valid today.,spam
+EMAIL0120,student@college.example,Class notes,I have shared the photos from our trip. Best regards.,not spam
+EMAIL0042,alerts@secure-check.net,You are a winner!,Claim your exclusive bonus now by visiting our website.,spam
+EMAIL0004,student@college.example,Meeting update,Let's discuss the project requirements tomorrow.,not spam
+EMAIL0688,deals@shop-now.example,Urgent account notice,You are our lucky winner. Send your details to receive the prize. Offer valid today.,spam
+EMAIL0236,alerts@secure-check.net,Claim your reward,Your free voucher is ready. Redeem it before it expires.,spam
+EMAIL0103,team@work.example,Meeting update,Thanks for your help with the assignment yesterday. Best regards.,not spam
+EMAIL0701,offers@example.com,Limited-time deal,,spam
+EMAIL0715,alerts@secure-check.net,You are a winner!,Click here to activate your reward account.,spam
+EMAIL0110,offers@example.com,Cash bonus available,You are our lucky winner. Send your details to receive the prize. Thank you.,spam
+EMAIL0723,student@college.example,Appointment confirmation,Can you confirm whether you will attend the event? Please confirm.,not spam
+EMAIL0348,deals@shop-now.example,Urgent account notice,Special offer just for you! Subscribe today. Thank you.,spam
+EMAIL0577,,Appointment confirmation,,not spam
+EMAIL0520,winner@promo-mail.com,Limited-time deal,Get a free phone by entering our prize draw.,spam
+EMAIL0184,rewards@claim-prize.example,Special offer inside,"Win cash today! Limited time offer, act now.",spam
+EMAIL0525,team@work.example,Class notes,I will call you after work to discuss the plan. Thank you.,not spam
+EMAIL0290,cash@quick-loan.example,Claim your reward,Your free voucher is ready. Redeem it before it expires. Please respond soon.,spam
+EMAIL0571,support@service.example,Quick question,Happy birthday! Hope you have a wonderful day. Please confirm.,not spam
+EMAIL0097,cash@quick-loan.example,Cash bonus available,"Congratulations, you qualify for a cash bonus.",spam
+EMAIL0684,rewards@claim-prize.example,Urgent account notice,URGENT: Your account needs verification. Click the link immediately.,spam
+EMAIL0255,colleague@company.example,Class notes,Your order has shipped and should arrive on Friday. Please confirm.,not spam
+EMAIL0272,deals@shop-now.example,Limited-time deal,Exclusive deal: get more for less. Shop now. Offer valid today.,spam
+EMAIL0486,team@work.example,Project report,Please find the project report attached for your review. Best regards.,not spam
+EMAIL0711,rewards@claim-prize.example,Urgent account notice,Get a discount on your next purchase. Buy now!,spam
+EMAIL0541,support@service.example,Project report,The interview is scheduled for Thursday morning.,not spam
+EMAIL0146,winner@promo-mail.com,Urgent account notice,Your package is on hold. Pay a small fee using this link. Please respond soon.,spam
+EMAIL0660,rewards@claim-prize.example,Special offer inside,"Congratulations, you qualify for a cash bonus. Thank you.",spam
+EMAIL0561,teacher@college.example,Quick question,Please find the project report attached for your review.,not spam
+EMAIL0386,friend@mail.example,Project report,The invoice for last month is ready. Please confirm.,not spam
+EMAIL0257,cash@quick-loan.example,Claim your reward,You are our lucky winner. Send your details to receive the prize. Offer valid today.,spam
+EMAIL0274,alerts@secure-check.net,Cash bonus available,Exclusive deal: get more for less. Shop now. Thank you.,spam
+EMAIL0666,team@work.example,Appointment confirmation,Reminder: the library book is due next week. Please confirm.,not spam
+EMAIL0754,offers@example.com,Special offer inside,"Congratulations, you qualify for a cash bonus. Please respond soon.",spam
+EMAIL0092,colleague@company.example,Quick question,I will call you after work to discuss the plan. Please confirm.,not spam
+EMAIL0531,student@college.example,Class notes,I uploaded the latest version of the presentation. Best regards.,not spam
+EMAIL0364,team@work.example,Meeting update,The class starts at 9 AM in room 204. Thank you.,not spam
+EMAIL0706,offers@example.com,Cash bonus available,Congratulations! You won a free gift. Claim your prize now. Offer valid today.,spam
+EMAIL0008,colleague@company.example,Appointment confirmation,Can you confirm whether you will attend the event? Please confirm.,not spam
+EMAIL0446,alerts@secure-check.net,Special offer inside,Claim your exclusive bonus now by visiting our website. Offer valid today.,spam
+EMAIL0388,alerts@secure-check.net,Limited-time deal,Earn extra money from home with this amazing opportunity. Offer valid today.,spam
+EMAIL0182,cash@quick-loan.example,You are a winner!,Act now to unlock your reward. This offer ends soon. Please respond soon.,spam
+EMAIL0582,rewards@claim-prize.example,Claim your reward,Get a free phone by entering our prize draw. Please respond soon.,spam
+EMAIL0211,friend@mail.example,Quick question,Could you send me the notes from today's lecture?,not spam
+EMAIL0733,teacher@college.example,Quick question,"Hi, can we move our meeting to tomorrow afternoon? Please confirm.",not spam
+EMAIL0266,deals@shop-now.example,Urgent account notice,Congratulations! You won a free gift. Claim your prize now. Thank you.,spam
+EMAIL0575,offers@example.com,Urgent account notice,Make money quickly with this simple secret method.,spam
+EMAIL0251,alerts@secure-check.net,Special offer inside,Get a discount on your next purchase. Buy now! Thank you.,spam
+EMAIL0686,offers@example.com,Cash bonus available,Get a free phone by entering our prize draw.,spam
+EMAIL0422,teacher@college.example,Appointment confirmation,The invoice for last month is ready. Please confirm.,not spam
+EMAIL0726,teacher@college.example,Quick question,,not spam
+EMAIL0467,colleague@company.example,Quick question,,not spam
+EMAIL0611,winner@promo-mail.com,Cash bonus available,You have been selected for a special reward. Reply YES to claim. Please respond soon.,spam
+EMAIL0552,support@service.example,Appointment confirmation,Your appointment is confirmed for Monday at 10 AM. Thank you.,not spam
+EMAIL0191,deals@shop-now.example,Urgent account notice,"Congratulations, you qualify for a cash bonus.",spam
+EMAIL0324,support@service.example,Document for review,I will call you after work to discuss the plan.,not spam
+EMAIL0150,deals@shop-now.example,Claim your reward,Act now to unlock your reward. This offer ends soon.,spam
+EMAIL0253,rewards@claim-prize.example,Special offer inside,,spam
+EMAIL0141,colleague@company.example,Quick question,Could you send me the notes from today's lecture? Thank you.,not spam
+EMAIL0665,cash@quick-loan.example,Claim your reward,Your card has a problem. Verify your information immediately. Offer valid today.,spam
+EMAIL0065,cash@quick-loan.example,,"Win cash today! Limited time offer, act now. Thank you.",spam
+EMAIL0543,alerts@secure-check.net,Limited-time deal,Special offer just for you! Subscribe today. Please respond soon.,spam
+EMAIL0524,student@college.example,Quick question,I uploaded the latest version of the presentation. Best regards.,not spam
+EMAIL0035,rewards@claim-prize.example,Cash bonus available,Get a discount on your next purchase. Buy now! Please respond soon.,spam
+EMAIL0306,rewards@claim-prize.example,Special offer inside,Get a free phone by entering our prize draw. Thank you.,spam
+EMAIL0209,cash@quick-loan.example,Special offer inside,Click here to activate your reward account. Please respond soon.,spam
+EMAIL0197,cash@quick-loan.example,Urgent account notice,You have been selected for a special reward. Reply YES to claim. Thank you.,spam
+EMAIL0775,support@service.example,Meeting update,The team meeting has been moved to 3 PM. Please confirm.,not spam
+EMAIL0714,winner@promo-mail.com,You are a winner!,You have been selected for a special reward. Reply YES to claim. Please respond soon.,spam
+EMAIL0449,offers@example.com,Urgent account notice,Your loan is pre-approved. Apply now for quick cash. Thank you.,spam
+EMAIL0283,teacher@college.example,Quick question,Happy birthday! Hope you have a wonderful day. Best regards.,not spam
+EMAIL0305,student@college.example,Class notes,Thanks for your email. I will reply soon. Thank you.,not spam
+EMAIL0263,alerts@secure-check.net,You are a winner!,,spam
+EMAIL0196,friend@mail.example,Appointment confirmation,Your appointment is confirmed for Monday at 10 AM. Best regards.,not spam
+EMAIL0742,deals@shop-now.example,You are a winner!,"Win cash today! Limited time offer, act now. Please respond soon.",spam
+EMAIL0383,student@college.example,Project report,Thanks for your email. I will reply soon. Best regards.,not spam
+EMAIL0458,team@work.example,Document for review,Can you confirm whether you will attend the event? Please confirm.,not spam
+EMAIL0159,offers@example.com,Cash bonus available,Special offer just for you! Subscribe today. Offer valid today.,spam
+EMAIL0484,student@college.example,Project report,I will call you after work to discuss the plan.,not spam
+EMAIL0772,alerts@secure-check.net,Claim your reward,You have been selected for a special reward. Reply YES to claim. Please respond soon.,spam
+EMAIL0400,colleague@company.example,Quick question,Please find the project report attached for your review. Thank you.,not spam
+EMAIL0579,offers@example.com,Claim your reward,Congratulations! You won a free gift. Claim your prize now. Please respond soon.,spam
+EMAIL0012,student@college.example,Document for review,I will call you after work to discuss the plan. Please confirm.,not spam
+EMAIL0485,team@work.example,Meeting update,Your appointment is confirmed for Monday at 10 AM. Please confirm.,not spam
+EMAIL0046,alerts@secure-check.net,You are a winner!,You are our lucky winner. Send your details to receive the prize. Please respond soon.,spam
+EMAIL0702,cash@quick-loan.example,Cash bonus available,Lowest prices guaranteed. Order today and save big. Thank you.,spam
+EMAIL0089,,Urgent account notice,Claim your exclusive bonus now by visiting our website.,spam
+EMAIL0546,winner@promo-mail.com,Limited-time deal,Make money quickly with this simple secret method. Please respond soon.,spam
+EMAIL0158,cash@quick-loan.example,Urgent account notice,Make money quickly with this simple secret method. Thank you.,spam
+EMAIL0126,winner@promo-mail.com,Claim your reward,Lowest prices guaranteed. Order today and save big. Thank you.,spam
+EMAIL0356,winner@promo-mail.com,Limited-time deal,Your package is on hold. Pay a small fee using this link.,spam
+EMAIL0390,alerts@secure-check.net,Cash bonus available,Lowest prices guaranteed. Order today and save big. Please respond soon.,spam
+EMAIL0415,winner@promo-mail.com,Urgent account notice,Click here to activate your reward account. Offer valid today.,spam
+EMAIL0299,rewards@claim-prize.example,Special offer inside,Claim your exclusive bonus now by visiting our website. Please respond soon.,spam
+EMAIL0797,winner@promo-mail.com,Cash bonus available,Get a free phone by entering our prize draw. Thank you.,spam
+EMAIL0041,rewards@claim-prize.example,You are a winner!,Lowest prices guaranteed. Order today and save big. Offer valid today.,spam
+EMAIL0275,colleague@company.example,Project report,I will call you after work to discuss the plan. Best regards.,not spam
+EMAIL0083,teacher@college.example,Quick question,I will call you after work to discuss the plan. Please confirm.,not spam
+EMAIL0199,deals@shop-now.example,Limited-time deal,Earn extra money from home with this amazing opportunity. Offer valid today.,spam
+EMAIL0724,offers@example.com,Special offer inside,You are our lucky winner. Send your details to receive the prize. Offer valid today.,spam
+EMAIL0773,offers@example.com,Limited-time deal,"Congratulations, you qualify for a cash bonus.",spam
+EMAIL0013,cash@quick-loan.example,Urgent account notice,URGENT: Your account needs verification. Click the link immediately. Offer valid today.,spam
+EMAIL0128,colleague@company.example,Document for review,Could you send me the notes from today's lecture? Please confirm.,not spam
+EMAIL0357,student@college.example,Project report,Your order has shipped and should arrive on Friday. Best regards.,not spam
+EMAIL0190,alerts@secure-check.net,Urgent account notice,Get a discount on your next purchase. Buy now!,spam
+EMAIL0656,winner@promo-mail.com,Claim your reward,"Win cash today! Limited time offer, act now. Please respond soon.",spam
+EMAIL0730,teacher@college.example,Appointment confirmation,Happy birthday! Hope you have a wonderful day. Thank you.,not spam
+EMAIL0288,colleague@company.example,Project report,The interview is scheduled for Thursday morning. Please confirm.,not spam
+EMAIL0461,alerts@secure-check.net,Claim your reward,Congratulations! You won a free gift. Claim your prize now. Please respond soon.,spam
+EMAIL0235,,You are a winner!,Make money quickly with this simple secret method. Thank you.,spam
+EMAIL0107,teacher@college.example,Project report,Your appointment is confirmed for Monday at 10 AM. Thank you.,not spam
+EMAIL0786,colleague@company.example,Document for review,Your appointment is confirmed for Monday at 10 AM. Please confirm.,not spam
+EMAIL0192,student@college.example,Meeting update,Reminder: the library book is due next week. Thank you.,not spam
+EMAIL0133,offers@example.com,Cash bonus available,"Win cash today! Limited time offer, act now. Offer valid today.",spam
+EMAIL0555,teacher@college.example,Document for review,Can you confirm whether you will attend the event? Thank you.,not spam
+EMAIL0713,offers@example.com,Cash bonus available,Lowest prices guaranteed. Order today and save big.,spam
+EMAIL0613,alerts@secure-check.net,Special offer inside,Special offer just for you! Subscribe today. Please respond soon.,spam
+EMAIL0106,rewards@claim-prize.example,Limited-time deal,Get a discount on your next purchase. Buy now! Offer valid today.,spam
+EMAIL0569,student@college.example,Meeting update,Thanks for your email. I will reply soon. Best regards.,not spam
+EMAIL0314,offers@example.com,Claim your reward,You are our lucky winner. Send your details to receive the prize. Please respond soon.,spam
+EMAIL0344,teacher@college.example,Quick question,Your appointment is confirmed for Monday at 10 AM.,not spam
+EMAIL0488,offers@example.com,You are a winner!,You are our lucky winner. Send your details to receive the prize. Offer valid today.,spam
+EMAIL0036,winner@promo-mail.com,Limited-time deal,URGENT: Your account needs verification. Click the link immediately.,spam
+EMAIL0770,deals@shop-now.example,Claim your reward,Get a free phone by entering our prize draw. Thank you.,spam
+EMAIL0514,winner@promo-mail.com,Claim your reward,Your package is on hold. Pay a small fee using this link.,spam
+EMAIL0533,offers@example.com,Cash bonus available,Your free voucher is ready. Redeem it before it expires. Offer valid today.,spam
+EMAIL0651,alerts@secure-check.net,Urgent account notice,You are our lucky winner. Send your details to receive the prize. Please respond soon.,spam
+EMAIL0721,alerts@secure-check.net,Claim your reward,Claim your exclusive bonus now by visiting our website. Please respond soon.,spam
+EMAIL0345,team@work.example,Document for review,The interview is scheduled for Thursday morning. Thank you.,not spam
+EMAIL0565,rewards@claim-prize.example,Limited-time deal,URGENT: Your account needs verification. Click the link immediately. Please respond soon.,spam
+EMAIL0187,colleague@company.example,Project report,The invoice for last month is ready.,not spam
+EMAIL0384,support@service.example,Quick question,Your appointment is confirmed for Monday at 10 AM. Best regards.,not spam
+EMAIL0157,friend@mail.example,Appointment confirmation,Please review the document before Friday. Best regards.,not spam
+EMAIL0151,teacher@college.example,,Thanks for your help with the assignment yesterday. Best regards.,not spam
+EMAIL0132,deals@shop-now.example,Cash bonus available,Click here to activate your reward account. Please respond soon.,spam
+EMAIL0685,support@service.example,Quick question,The team meeting has been moved to 3 PM. Please confirm.,not spam
+EMAIL0623,support@service.example,Appointment confirmation,I uploaded the latest version of the presentation.,not spam
+EMAIL0321,winner@promo-mail.com,You are a winner!,Lowest prices guaranteed. Order today and save big. Offer valid today.,spam
+EMAIL0214,student@college.example,Project report,I will call you after work to discuss the plan.,not spam
+EMAIL0011,alerts@secure-check.net,Urgent account notice,Get a discount on your next purchase. Buy now!,spam
+EMAIL0277,cash@quick-loan.example,Urgent account notice,Congratulations! You won a free gift. Claim your prize now. Please respond soon.,spam
+EMAIL0761,teacher@college.example,Project report,Reminder: the library book is due next week. Please confirm.,not spam
+EMAIL0710,deals@shop-now.example,Special offer inside,"Congratulations, you qualify for a cash bonus. Offer valid today.",spam
+EMAIL0283,teacher@college.example,Quick question,Happy birthday! Hope you have a wonderful day. Best regards.,not spam
+EMAIL0108,offers@example.com,Cash bonus available,Act now to unlock your reward. This offer ends soon. Offer valid today.,spam
+EMAIL0315,support@service.example,Appointment confirmation,The interview is scheduled for Thursday morning. Please confirm.,not spam
+EMAIL0780,student@college.example,Class notes,Thanks for your email. I will reply soon. Thank you.,not spam
+EMAIL0567,support@service.example,Project report,Reminder: the library book is due next week.,not spam
+EMAIL0727,alerts@secure-check.net,,Get a free phone by entering our prize draw. Offer valid today.,spam
+EMAIL0667,teacher@college.example,Project report,Please let me know if you have any questions. Best regards.,not spam
+EMAIL0346,student@college.example,Project report,"Hi, can we move our meeting to tomorrow afternoon? Please confirm.",not spam
+EMAIL0347,support@service.example,Meeting update,I have shared the photos from our trip. Best regards.,not spam
+EMAIL0454,winner@promo-mail.com,Special offer inside,Get a discount on your next purchase. Buy now! Offer valid today.,spam
+EMAIL0095,support@service.example,Document for review,I uploaded the latest version of the presentation. Best regards.,not spam
+EMAIL0585,,Quick question,Let's discuss the project requirements tomorrow.,not spam
+EMAIL0664,winner@promo-mail.com,Special offer inside,Your free voucher is ready. Redeem it before it expires. Thank you.,spam
+EMAIL0476,friend@mail.example,Project report,Happy birthday! Hope you have a wonderful day. Thank you.,not spam
+EMAIL0601,deals@shop-now.example,You are a winner!,"Congratulations, you qualify for a cash bonus.",spam
+EMAIL0578,friend@mail.example,Class notes,The invoice for last month is ready. Please confirm.,not spam
+EMAIL0593,offers@example.com,Special offer inside,Get a free phone by entering our prize draw. Offer valid today.,spam
+EMAIL0537,friend@mail.example,Appointment confirmation,Please review the document before Friday. Best regards.,not spam
+EMAIL0407,alerts@secure-check.net,You are a winner!,Click here to activate your reward account. Thank you.,spam
+EMAIL0404,teacher@college.example,,I will call you after work to discuss the plan. Thank you.,not spam
+EMAIL0653,team@work.example,Meeting update,Happy birthday! Hope you have a wonderful day. Best regards.,not spam
+EMAIL0064,support@service.example,Meeting update,The invoice for last month is ready.,not spam
+EMAIL0082,offers@example.com,Urgent account notice,Exclusive deal: get more for less. Shop now. Thank you.,spam
+EMAIL0319,winner@promo-mail.com,Cash bonus available,Get a free phone by entering our prize draw. Offer valid today.,spam
+EMAIL0692,teacher@college.example,Project report,The interview is scheduled for Thursday morning. Please confirm.,not spam
+EMAIL0171,alerts@secure-check.net,Cash bonus available,"Congratulations, you qualify for a cash bonus. Please respond soon.",spam
+EMAIL0278,alerts@secure-check.net,Cash bonus available,"Congratulations, you qualify for a cash bonus. Please respond soon.",spam
+EMAIL0551,alerts@secure-check.net,You are a winner!,"Congratulations, you qualify for a cash bonus. Thank you.",spam
+EMAIL0374,cash@quick-loan.example,You are a winner!,Act now to unlock your reward. This offer ends soon. Offer valid today.,spam
+EMAIL0610,winner@promo-mail.com,Limited-time deal,Exclusive deal: get more for less. Shop now. Please respond soon.,spam
+EMAIL0749,offers@example.com,Cash bonus available,"Win cash today! Limited time offer, act now. Please respond soon.",spam
+EMAIL0249,deals@shop-now.example,Cash bonus available,Get a discount on your next purchase. Buy now! Offer valid today.,spam
+EMAIL0300,winner@promo-mail.com,,Your free voucher is ready. Redeem it before it expires. Offer valid today.,spam
+EMAIL0303,deals@shop-now.example,Cash bonus available,"Congratulations, you qualify for a cash bonus. Offer valid today.",spam
+EMAIL0794,deals@shop-now.example,Urgent account notice,Claim your exclusive bonus now by visiting our website. Thank you.,spam
+EMAIL0559,colleague@company.example,Project report,Your appointment is confirmed for Monday at 10 AM. Thank you.,not spam
+EMAIL0494,teacher@college.example,Document for review,Happy birthday! Hope you have a wonderful day.,not spam
+EMAIL0005,colleague@company.example,Project report,I uploaded the latest version of the presentation. Thank you.,not spam
+EMAIL0489,student@college.example,Appointment confirmation,Your order has shipped and should arrive on Friday.,not spam
+EMAIL0512,support@service.example,Project report,Can you confirm whether you will attend the event? Please confirm.,not spam
+EMAIL0604,support@service.example,Class notes,Thanks for your email. I will reply soon. Best regards.,not spam
+EMAIL0545,offers@example.com,Claim your reward,Your card has a problem. Verify your information immediately. Please respond soon.,spam
+EMAIL0594,friend@mail.example,Class notes,The team meeting has been moved to 3 PM. Best regards.,not spam
+EMAIL0220,team@work.example,Appointment confirmation,Thanks for your email. I will reply soon.,not spam
+EMAIL0138,winner@promo-mail.com,Cash bonus available,Lowest prices guaranteed. Order today and save big. Thank you.,spam
+EMAIL0737,cash@quick-loan.example,Urgent account notice,URGENT: Your account needs verification. Click the link immediately.,spam
+EMAIL0755,alerts@secure-check.net,Urgent account notice,Congratulations! You won a free gift. Claim your prize now. Please respond soon.,spam
+EMAIL0047,friend@mail.example,Class notes,The team meeting has been moved to 3 PM. Best regards.,not spam
+EMAIL0630,teacher@college.example,Class notes,The interview is scheduled for Thursday morning. Best regards.,not spam
+EMAIL0498,deals@shop-now.example,Limited-time deal,Click here to activate your reward account. Thank you.,spam
+EMAIL0351,team@work.example,Project report,Your order has shipped and should arrive on Friday.,not spam
+EMAIL0556,,Project report,Your appointment is confirmed for Monday at 10 AM. Please confirm.,not spam
+EMAIL0395,alerts@secure-check.net,Special offer inside,Your loan is pre-approved. Apply now for quick cash. Thank you.,spam
+EMAIL0437,deals@shop-now.example,Cash bonus available,Congratulations! You won a free gift. Claim your prize now.,spam
+EMAIL0566,support@service.example,Class notes,I have shared the photos from our trip.,not spam
+EMAIL0465,alerts@secure-check.net,You are a winner!,Act now to unlock your reward. This offer ends soon. Please respond soon.,spam
+EMAIL0456,winner@promo-mail.com,Special offer inside,Congratulations! You won a free gift. Claim your prize now. Offer valid today.,spam
+EMAIL0342,winner@promo-mail.com,Urgent account notice,"Win cash today! Limited time offer, act now. Please respond soon.",spam
+EMAIL0181,support@service.example,Meeting update,Could you send me the notes from today's lecture?,not spam
+EMAIL0517,support@service.example,Appointment confirmation,I will call you after work to discuss the plan. Please confirm.,not spam
+EMAIL0793,colleague@company.example,Class notes,The invoice for last month is ready. Please confirm.,not spam
+EMAIL0676,team@work.example,Class notes,Reminder: the library book is due next week. Please confirm.,not spam
+EMAIL0327,friend@mail.example,Meeting update,Reminder: the library book is due next week. Thank you.,not spam
+EMAIL0066,friend@mail.example,Project report,The invoice for last month is ready. Please confirm.,not spam
+EMAIL0788,friend@mail.example,Document for review,"Hi, can we move our meeting to tomorrow afternoon? Please confirm.",not spam
+EMAIL0170,cash@quick-loan.example,Claim your reward,Earn extra money from home with this amazing opportunity. Please respond soon.,spam
+EMAIL0617,student@college.example,Appointment confirmation,Happy birthday! Hope you have a wonderful day. Best regards.,not spam
+EMAIL0371,team@work.example,Project report,The invoice for last month is ready. Please confirm.,not spam
+EMAIL0010,deals@shop-now.example,Special offer inside,Special offer just for you! Subscribe today. Please respond soon.,spam
+EMAIL0628,offers@example.com,,Earn extra money from home with this amazing opportunity.,spam
+EMAIL0539,rewards@claim-prize.example,You are a winner!,Your free voucher is ready. Redeem it before it expires. Please respond soon.,spam
+EMAIL0179,team@work.example,Appointment confirmation,"Hi, can we move our meeting to tomorrow afternoon?",not spam
+EMAIL0748,friend@mail.example,Document for review,The team meeting has been moved to 3 PM. Please confirm.,not spam
+EMAIL0766,teacher@college.example,Class notes,I uploaded the latest version of the presentation.,not spam
+EMAIL0164,deals@shop-now.example,Claim your reward,You have been selected for a special reward. Reply YES to claim.,spam
+EMAIL0590,team@work.example,Quick question,I have shared the photos from our trip. Thank you.,not spam
+EMAIL0781,winner@promo-mail.com,You are a winner!,Exclusive deal: get more for less. Shop now. Offer valid today.,spam
+EMAIL0532,student@college.example,Meeting update,The invoice for last month is ready. Best regards.,not spam
+EMAIL0218,teacher@college.example,Appointment confirmation,Reminder: the library book is due next week. Please confirm.,not spam
+EMAIL0507,student@college.example,Appointment confirmation,Reminder: the library book is due next week.,not spam
+EMAIL0592,support@service.example,Project report,Let's discuss the project requirements tomorrow.,not spam
+EMAIL0675,colleague@company.example,Project report,Please review the document before Friday. Best regards.,not spam
+EMAIL0668,deals@shop-now.example,You are a winner!,Your free voucher is ready. Redeem it before it expires.,spam
+EMAIL0094,friend@mail.example,Meeting update,Your order has shipped and should arrive on Friday. Please confirm.,not spam
+EMAIL0309,cash@quick-loan.example,Urgent account notice,Your free voucher is ready. Redeem it before it expires. Please respond soon.,spam
+EMAIL0798,support@service.example,Meeting update,Happy birthday! Hope you have a wonderful day. Best regards.,not spam
+EMAIL0547,alerts@secure-check.net,Cash bonus available,Congratulations! You won a free gift. Claim your prize now.,spam
+EMAIL0642,alerts@secure-check.net,Urgent account notice,Your loan is pre-approved. Apply now for quick cash. Please respond soon.,spam
+EMAIL0111,team@work.example,Document for review,Please review the document before Friday. Thank you.,not spam
+EMAIL0583,deals@shop-now.example,Special offer inside,URGENT: Your account needs verification. Click the link immediately.,spam
+EMAIL0530,student@college.example,Appointment confirmation,Let's discuss the project requirements tomorrow. Best regards.,not spam
+EMAIL0722,student@college.example,Project report,Thanks for your email. I will reply soon. Please confirm.,not spam
+EMAIL0121,,You are a winner!,"Congratulations, you qualify for a cash bonus.",spam
+EMAIL0143,offers@example.com,Special offer inside,You have been selected for a special reward. Reply YES to claim.,spam
+EMAIL0396,winner@promo-mail.com,You are a winner!,URGENT: Your account needs verification. Click the link immediately. Thank you.,spam
+EMAIL0296,rewards@claim-prize.example,Cash bonus available,Your free voucher is ready. Redeem it before it expires. Offer valid today.,spam
+EMAIL0377,offers@example.com,Urgent account notice,You have been selected for a special reward. Reply YES to claim. Thank you.,spam
+EMAIL0655,support@service.example,Document for review,Thanks for your email. I will reply soon. Best regards.,not spam
+EMAIL0513,colleague@company.example,Document for review,Happy birthday! Hope you have a wonderful day.,not spam
+EMAIL0336,friend@mail.example,Quick question,Please review the document before Friday. Thank you.,not spam
+EMAIL0457,winner@promo-mail.com,Claim your reward,You have been selected for a special reward. Reply YES to claim. Please respond soon.,spam
+EMAIL0745,support@service.example,Project report,Thanks for your help with the assignment yesterday.,not spam
+EMAIL0177,team@work.example,Quick question,The invoice for last month is ready. Please confirm.,not spam
+EMAIL0232,cash@quick-loan.example,Cash bonus available,Your loan is pre-approved. Apply now for quick cash.,spam
+EMAIL0302,support@service.example,Quick question,Can you confirm whether you will attend the event?,not spam
+EMAIL0729,friend@mail.example,Project report,The invoice for last month is ready. Please confirm.,not spam
+EMAIL0451,teacher@college.example,Class notes,Could you send me the notes from today's lecture? Thank you.,not spam
+EMAIL0738,winner@promo-mail.com,Cash bonus available,Your loan is pre-approved. Apply now for quick cash. Please respond soon.,spam
+EMAIL0186,student@college.example,Appointment confirmation,The team meeting has been moved to 3 PM. Please confirm.,not spam
+EMAIL0460,rewards@claim-prize.example,Urgent account notice,Your free voucher is ready. Redeem it before it expires.,spam
+EMAIL0472,rewards@claim-prize.example,Cash bonus available,Your free voucher is ready. Redeem it before it expires. Please respond soon.,spam
+EMAIL0341,winner@promo-mail.com,Limited-time deal,Make money quickly with this simple secret method. Offer valid today.,spam
+EMAIL0069,colleague@company.example,Document for review,I will call you after work to discuss the plan. Please confirm.,not spam
+EMAIL0343,teacher@college.example,Meeting update,The team meeting has been moved to 3 PM.,not spam
+EMAIL0663,student@college.example,Project report,Thanks for your help with the assignment yesterday.,not spam
+EMAIL0105,deals@shop-now.example,Cash bonus available,Lowest prices guaranteed. Order today and save big. Offer valid today.,spam
+EMAIL0522,cash@quick-loan.example,Claim your reward,Your loan is pre-approved. Apply now for quick cash.,spam
+EMAIL0709,support@service.example,Meeting update,The class starts at 9 AM in room 204. Please confirm.,not spam
+EMAIL0705,team@work.example,Meeting update,Your order has shipped and should arrive on Friday. Best regards.,not spam
+EMAIL0167,support@service.example,,The class starts at 9 AM in room 204. Thank you.,not spam
+EMAIL0690,team@work.example,Appointment confirmation,The team meeting has been moved to 3 PM. Please confirm.,not spam
+EMAIL0014,support@service.example,Quick question,Reminder: the library book is due next week. Thank you.,not spam
+EMAIL0652,winner@promo-mail.com,You are a winner!,"Win cash today! Limited time offer, act now. Please respond soon.",spam
+EMAIL0633,teacher@college.example,Meeting update,I will call you after work to discuss the plan.,not spam
+EMAIL0671,team@work.example,Class notes,Your order has shipped and should arrive on Friday. Best regards.,not spam
+EMAIL0224,colleague@company.example,Class notes,The invoice for last month is ready. Thank you.,not spam
+EMAIL0239,colleague@company.example,Project report,I uploaded the latest version of the presentation. Thank you.,not spam
+EMAIL0549,colleague@company.example,Appointment confirmation,Please let me know if you have any questions. Thank you.,not spam
+EMAIL0229,alerts@secure-check.net,Urgent account notice,Congratulations! You won a free gift. Claim your prize now. Thank you.,spam
+EMAIL0581,student@college.example,Meeting update,Please let me know if you have any questions. Please confirm.,not spam
+EMAIL0268,rewards@claim-prize.example,Claim your reward,URGENT: Your account needs verification. Click the link immediately. Please respond soon.,spam
+EMAIL0353,teacher@college.example,Quick question,I have shared the photos from our trip. Please confirm.,not spam
+EMAIL0445,colleague@company.example,Project report,Let's discuss the project requirements tomorrow. Thank you.,not spam
+EMAIL0631,alerts@secure-check.net,Claim your reward,URGENT: Your account needs verification. Click the link immediately. Offer valid today.,spam
+EMAIL0130,support@service.example,Quick question,Reminder: the library book is due next week. Please confirm.,not spam
+EMAIL0595,colleague@company.example,Meeting update,Can you confirm whether you will attend the event?,not spam
+EMAIL0398,deals@shop-now.example,Claim your reward,Your package is on hold. Pay a small fee using this link. Please respond soon.,spam
+EMAIL0068,winner@promo-mail.com,Limited-time deal,You have been selected for a special reward. Reply YES to claim. Thank you.,spam
+EMAIL0792,support@service.example,Project report,Could you send me the notes from today's lecture? Thank you.,not spam
+EMAIL0463,support@service.example,Project report,Let's discuss the project requirements tomorrow. Thank you.,not spam
+EMAIL0558,alerts@secure-check.net,Urgent account notice,Make money quickly with this simple secret method.,spam
+EMAIL0695,cash@quick-loan.example,Limited-time deal,Your free voucher is ready. Redeem it before it expires. Offer valid today.,spam
+EMAIL0298,friend@mail.example,Appointment confirmation,Your appointment is confirmed for Monday at 10 AM. Thank you.,not spam
+EMAIL0408,support@service.example,Class notes,I uploaded the latest version of the presentation. Please confirm.,not spam
+EMAIL0242,rewards@claim-prize.example,You are a winner!,Claim your exclusive bonus now by visiting our website. Offer valid today.,spam
+EMAIL0791,teacher@college.example,Project report,Happy birthday! Hope you have a wonderful day.,not spam
+EMAIL0477,offers@example.com,Special offer inside,Exclusive deal: get more for less. Shop now.,spam
+EMAIL0666,team@work.example,Appointment confirmation,Reminder: the library book is due next week. Please confirm.,not spam
+EMAIL0719,support@service.example,Quick question,I have shared the photos from our trip. Thank you.,not spam
+EMAIL0455,winner@promo-mail.com,Special offer inside,Get a free phone by entering our prize draw. Offer valid today.,spam
+EMAIL0435,support@service.example,Project report,Thanks for your email. I will reply soon. Best regards.,not spam
+EMAIL0606,team@work.example,Class notes,Your appointment is confirmed for Monday at 10 AM. Please confirm.,not spam
+EMAIL0636,teacher@college.example,Document for review,Your order has shipped and should arrive on Friday. Please confirm.,not spam
+EMAIL0680,alerts@secure-check.net,You are a winner!,Earn extra money from home with this amazing opportunity. Thank you.,spam
+EMAIL0572,colleague@company.example,Meeting update,Could you send me the notes from today's lecture? Best regards.,not spam
+EMAIL0049,student@college.example,Project report,Thanks for your help with the assignment yesterday.,not spam
+EMAIL0417,offers@example.com,Urgent account notice,Your loan is pre-approved. Apply now for quick cash.,spam
+EMAIL0394,student@college.example,Meeting update,The interview is scheduled for Thursday morning.,not spam
+EMAIL0203,deals@shop-now.example,Claim your reward,Your loan is pre-approved. Apply now for quick cash.,spam
+EMAIL0564,winner@promo-mail.com,Claim your reward,Your card has a problem. Verify your information immediately.,spam
+EMAIL0118,teacher@college.example,Project report,Let's discuss the project requirements tomorrow. Thank you.,not spam
+EMAIL0447,cash@quick-loan.example,You are a winner!,Lowest prices guaranteed. Order today and save big. Offer valid today.,spam
+EMAIL0317,colleague@company.example,Appointment confirmation,I will call you after work to discuss the plan.,not spam
+EMAIL0071,cash@quick-loan.example,Limited-time deal,,spam
+EMAIL0320,student@college.example,Class notes,Thanks for your email. I will reply soon. Best regards.,not spam
+EMAIL0379,winner@promo-mail.com,Claim your reward,URGENT: Your account needs verification. Click the link immediately. Thank you.,spam
+EMAIL0021,alerts@secure-check.net,You are a winner!,Claim your exclusive bonus now by visiting our website.,spam
+EMAIL0470,colleague@company.example,Quick question,I have shared the photos from our trip.,not spam
+EMAIL0210,offers@example.com,Special offer inside,Your free voucher is ready. Redeem it before it expires. Please respond soon.,spam
+EMAIL0267,colleague@company.example,Appointment confirmation,Please review the document before Friday. Best regards.,not spam
+EMAIL0576,alerts@secure-check.net,Claim your reward,Earn extra money from home with this amazing opportunity. Please respond soon.,spam
+EMAIL0098,cash@quick-loan.example,Claim your reward,Exclusive deal: get more for less. Shop now. Thank you.,spam
+EMAIL0090,teacher@college.example,Appointment confirmation,Thanks for your email. I will reply soon. Please confirm.,not spam
+EMAIL0172,colleague@company.example,Quick question,Thanks for your help with the assignment yesterday. Best regards.,not spam
+EMAIL0471,teacher@college.example,Project report,Please review the document before Friday. Please confirm.,not spam
+EMAIL0474,teacher@college.example,Class notes,Thanks for your help with the assignment yesterday. Best regards.,not spam
+EMAIL0273,winner@promo-mail.com,Limited-time deal,Special offer just for you! Subscribe today.,spam
+EMAIL0329,support@service.example,Appointment confirmation,Thanks for your help with the assignment yesterday.,not spam
+EMAIL0621,rewards@claim-prize.example,Special offer inside,Your package is on hold. Pay a small fee using this link. Offer valid today.,spam
+EMAIL0033,offers@example.com,Cash bonus available,Your loan is pre-approved. Apply now for quick cash. Offer valid today.,spam
+EMAIL0637,cash@quick-loan.example,Limited-time deal,Click here to activate your reward account.,spam
+EMAIL0503,alerts@secure-check.net,Special offer inside,Your card has a problem. Verify your information immediately.,spam
+EMAIL0183,winner@promo-mail.com,You are a winner!,Congratulations! You won a free gift. Claim your prize now. Thank you.,spam
+EMAIL0099,offers@example.com,Urgent account notice,Your card has a problem. Verify your information immediately. Please respond soon.,spam
+EMAIL0509,deals@shop-now.example,Limited-time deal,You have been selected for a special reward. Reply YES to claim. Please respond soon.,spam
+EMAIL0023,team@work.example,Class notes,I uploaded the latest version of the presentation. Best regards.,not spam
+EMAIL0605,winner@promo-mail.com,Special offer inside,Make money quickly with this simple secret method. Thank you.,spam
+EMAIL0039,support@service.example,Quick question,The invoice for last month is ready. Please confirm.,not spam
+EMAIL0645,teacher@college.example,Project report,Reminder: the library book is due next week. Please confirm.,not spam
+EMAIL0096,offers@example.com,Limited-time deal,"Win cash today! Limited time offer, act now.",spam
+EMAIL0354,colleague@company.example,Document for review,"Hi, can we move our meeting to tomorrow afternoon? Please confirm.",not spam
+EMAIL0548,colleague@company.example,Document for review,Thanks for your email. I will reply soon. Best regards.,not spam
+EMAIL0265,,Limited-time deal,Make money quickly with this simple secret method.,spam
+EMAIL0340,teacher@college.example,Project report,I uploaded the latest version of the presentation. Thank you.,not spam
+EMAIL0420,offers@example.com,Urgent account notice,Your loan is pre-approved. Apply now for quick cash. Please respond soon.,spam
+EMAIL0086,alerts@secure-check.net,Claim your reward,Exclusive deal: get more for less. Shop now.,spam
+EMAIL0370,cash@quick-loan.example,Cash bonus available,Your free voucher is ready. Redeem it before it expires.,spam
+EMAIL0270,offers@example.com,Urgent account notice,Your card has a problem. Verify your information immediately. Thank you.,spam
+EMAIL0419,support@service.example,Class notes,Your order has shipped and should arrive on Friday. Please confirm.,not spam
+EMAIL0402,deals@shop-now.example,Limited-time deal,Act now to unlock your reward. This offer ends soon. Thank you.,spam
+EMAIL0230,student@college.example,Appointment confirmation,The invoice for last month is ready. Please confirm.,not spam
+EMAIL0034,team@work.example,Quick question,Please find the project report attached for your review.,not spam
+EMAIL0708,cash@quick-loan.example,Claim your reward,URGENT: Your account needs verification. Click the link immediately. Thank you.,spam
+EMAIL0433,winner@promo-mail.com,Limited-time deal,"Win cash today! Limited time offer, act now. Offer valid today.",spam
+EMAIL0216,teacher@college.example,Document for review,Thanks for your help with the assignment yesterday.,not spam
+EMAIL0785,team@work.example,Quick question,Your appointment is confirmed for Monday at 10 AM.,not spam
+EMAIL0365,offers@example.com,Special offer inside,URGENT: Your account needs verification. Click the link immediately.,spam
+EMAIL0360,friend@mail.example,Document for review,I uploaded the latest version of the presentation. Please confirm.,not spam
+EMAIL0271,offers@example.com,Limited-time deal,Claim your exclusive bonus now by visiting our website. Please respond soon.,spam
+EMAIL0771,colleague@company.example,Meeting update,The interview is scheduled for Thursday morning. Best regards.,not spam
+EMAIL0070,,Class notes,,not spam
+EMAIL0602,alerts@secure-check.net,Urgent account notice,Exclusive deal: get more for less. Shop now. Thank you.,spam
+EMAIL0515,team@work.example,Quick question,I will call you after work to discuss the plan. Please confirm.,not spam
+EMAIL0020,support@service.example,Appointment confirmation,The interview is scheduled for Thursday morning. Thank you.,not spam
+EMAIL0580,teacher@college.example,Meeting update,"Hi, can we move our meeting to tomorrow afternoon? Thank you.",not spam
+EMAIL0501,deals@shop-now.example,Special offer inside,Exclusive deal: get more for less. Shop now. Please respond soon.,spam
+EMAIL0189,support@service.example,Appointment confirmation,The interview is scheduled for Thursday morning. Best regards.,not spam
+EMAIL0113,team@work.example,Appointment confirmation,Reminder: the library book is due next week. Best regards.,not spam
+EMAIL0308,friend@mail.example,Meeting update,The class starts at 9 AM in room 204. Please confirm.,not spam
+EMAIL0479,cash@quick-loan.example,Limited-time deal,Special offer just for you! Subscribe today. Please respond soon.,spam
+EMAIL0253,rewards@claim-prize.example,Special offer inside,,spam
+EMAIL0335,student@college.example,Project report,Let's discuss the project requirements tomorrow. Please confirm.,not spam
+EMAIL0800,cash@quick-loan.example,Special offer inside,"Congratulations, you qualify for a cash bonus. Thank you.",spam
+EMAIL0044,deals@shop-now.example,Urgent account notice,Earn extra money from home with this amazing opportunity. Thank you.,spam
+EMAIL0790,rewards@claim-prize.example,Cash bonus available,URGENT: Your account needs verification. Click the link immediately. Please respond soon.,spam
+EMAIL0067,offers@example.com,Claim your reward,You are our lucky winner. Send your details to receive the prize. Thank you.,spam
+EMAIL0162,team@work.example,Quick question,Could you send me the notes from today's lecture? Please confirm.,not spam
+EMAIL0725,cash@quick-loan.example,Special offer inside,Earn extra money from home with this amazing opportunity. Offer valid today.,spam
+EMAIL0767,deals@shop-now.example,Urgent account notice,Your card has a problem. Verify your information immediately. Please respond soon.,spam
+EMAIL0677,cash@quick-loan.example,You are a winner!,Your loan is pre-approved. Apply now for quick cash.,spam
+EMAIL0707,rewards@claim-prize.example,Special offer inside,Your package is on hold. Pay a small fee using this link. Please respond soon.,spam
+EMAIL0392,deals@shop-now.example,Special offer inside,Congratulations! You won a free gift. Claim your prize now. Thank you.,spam
+EMAIL0527,winner@promo-mail.com,Cash bonus available,Congratulations! You won a free gift. Claim your prize now. Offer valid today.,spam
+EMAIL0140,team@work.example,Project report,The interview is scheduled for Thursday morning. Thank you.,not spam
+EMAIL0076,student@college.example,Document for review,Please find the project report attached for your review.,not spam
+EMAIL0080,team@work.example,Meeting update,I have shared the photos from our trip. Best regards.,not spam
+EMAIL0535,team@work.example,Document for review,The class starts at 9 AM in room 204. Best regards.,not spam
+EMAIL0059,student@college.example,Document for review,Please review the document before Friday. Best regards.,not spam
+EMAIL0614,colleague@company.example,Quick question,Let's discuss the project requirements tomorrow. Please confirm.,not spam
+EMAIL0366,support@service.example,Appointment confirmation,I will call you after work to discuss the plan. Thank you.,not spam
+EMAIL0289,cash@quick-loan.example,Urgent account notice,"Win cash today! Limited time offer, act now.",spam
+EMAIL0799,student@college.example,Document for review,The team meeting has been moved to 3 PM. Please confirm.,not spam
+EMAIL0074,team@work.example,Appointment confirmation,The class starts at 9 AM in room 204. Please confirm.,not spam
+EMAIL0260,colleague@company.example,Appointment confirmation,Your appointment is confirmed for Monday at 10 AM.,not spam
+EMAIL0312,friend@mail.example,Class notes,I uploaded the latest version of the presentation.,not spam
+EMAIL0672,colleague@company.example,Document for review,Please let me know if you have any questions. Please confirm.,not spam
+EMAIL0217,friend@mail.example,Class notes,I uploaded the latest version of the presentation.,not spam
+EMAIL0292,teacher@college.example,Project report,Could you send me the notes from today's lecture? Thank you.,not spam
+EMAIL0227,teacher@college.example,Meeting update,Please review the document before Friday. Please confirm.,not spam
+EMAIL0468,alerts@secure-check.net,Special offer inside,Your package is on hold. Pay a small fee using this link. Thank you.,spam
+EMAIL0050,teacher@college.example,Appointment confirmation,I have shared the photos from our trip. Please confirm.,not spam
+EMAIL0153,winner@promo-mail.com,Claim your reward,Claim your exclusive bonus now by visiting our website. Offer valid today.,spam
+EMAIL0650,winner@promo-mail.com,Urgent account notice,You are our lucky winner. Send your details to receive the prize. Please respond soon.,spam
+EMAIL0482,student@college.example,Appointment confirmation,Let's discuss the project requirements tomorrow.,not spam
+EMAIL0293,,Special offer inside,Get a discount on your next purchase. Buy now! Please respond soon.,spam
+EMAIL0516,friend@mail.example,Class notes,The team meeting has been moved to 3 PM. Thank you.,not spam
+EMAIL0246,alerts@secure-check.net,Claim your reward,Make money quickly with this simple secret method. Offer valid today.,spam
+EMAIL0297,rewards@claim-prize.example,Limited-time deal,Earn extra money from home with this amazing opportunity. Please respond soon.,spam
+EMAIL0250,student@college.example,Class notes,Please let me know if you have any questions. Best regards.,not spam
+EMAIL0352,colleague@company.example,Appointment confirmation,Thanks for your email. I will reply soon.,not spam
+EMAIL0362,colleague@company.example,Meeting update,Please let me know if you have any questions. Please confirm.,not spam
+EMAIL0661,deals@shop-now.example,Limited-time deal,Your free voucher is ready. Redeem it before it expires. Offer valid today.,spam
+EMAIL0414,teacher@college.example,Project report,I will call you after work to discuss the plan. Thank you.,not spam
+EMAIL0464,colleague@company.example,Quick question,Happy birthday! Hope you have a wonderful day. Best regards.,not spam
+EMAIL0048,cash@quick-loan.example,Claim your reward,You have been selected for a special reward. Reply YES to claim. Thank you.,spam
+EMAIL0117,team@work.example,Class notes,"Hi, can we move our meeting to tomorrow afternoon?",not spam
+EMAIL0202,cash@quick-loan.example,You are a winner!,Your package is on hold. Pay a small fee using this link. Thank you.,spam
+EMAIL0763,cash@quick-loan.example,Limited-time deal,Get a discount on your next purchase. Buy now!,spam
+EMAIL0018,cash@quick-loan.example,Special offer inside,Congratulations! You won a free gift. Claim your prize now.,spam
+EMAIL0625,rewards@claim-prize.example,You are a winner!,Make money quickly with this simple secret method. Please respond soon.,spam
+EMAIL0325,winner@promo-mail.com,You are a winner!,Your package is on hold. Pay a small fee using this link.,spam
+EMAIL0026,team@work.example,Quick question,The class starts at 9 AM in room 204. Please confirm.,not spam
+EMAIL0295,team@work.example,Document for review,Thanks for your email. I will reply soon. Please confirm.,not spam
+EMAIL0418,colleague@company.example,Appointment confirmation,I will call you after work to discuss the plan. Thank you.,not spam
+EMAIL0624,winner@promo-mail.com,Cash bonus available,Claim your exclusive bonus now by visiting our website. Please respond soon.,spam
+EMAIL0136,colleague@company.example,Class notes,The interview is scheduled for Thursday morning. Thank you.,not spam
+EMAIL0609,colleague@company.example,Project report,Please let me know if you have any questions. Thank you.,not spam
+EMAIL0776,team@work.example,Document for review,Could you send me the notes from today's lecture? Thank you.,not spam
+EMAIL0762,student@college.example,Project report,The interview is scheduled for Thursday morning. Thank you.,not spam
+EMAIL0481,support@service.example,Appointment confirmation,Could you send me the notes from today's lecture? Best regards.,not spam
+EMAIL0028,colleague@company.example,Document for review,Happy birthday! Hope you have a wonderful day. Thank you.,not spam
+EMAIL0718,friend@mail.example,Class notes,"Hi, can we move our meeting to tomorrow afternoon?",not spam
+EMAIL0439,colleague@company.example,Project report,The interview is scheduled for Thursday morning. Please confirm.,not spam
+EMAIL0643,cash@quick-loan.example,Cash bonus available,Congratulations! You won a free gift. Claim your prize now. Thank you.,spam
+EMAIL0029,deals@shop-now.example,You are a winner!,Special offer just for you! Subscribe today. Thank you.,spam
+EMAIL0436,team@work.example,Meeting update,Your appointment is confirmed for Monday at 10 AM.,not spam
+EMAIL0413,offers@example.com,Cash bonus available,Your card has a problem. Verify your information immediately. Thank you.,spam
+EMAIL0629,colleague@company.example,Quick question,Your order has shipped and should arrive on Friday. Please confirm.,not spam
+EMAIL0542,colleague@company.example,Appointment confirmation,Your appointment is confirmed for Monday at 10 AM. Best regards.,not spam
+EMAIL0334,teacher@college.example,Appointment confirmation,Thanks for your help with the assignment yesterday. Thank you.,not spam
+EMAIL0078,student@college.example,Quick question,Your order has shipped and should arrive on Friday.,not spam
+EMAIL0795,rewards@claim-prize.example,Special offer inside,"Congratulations, you qualify for a cash bonus. Thank you.",spam
+EMAIL0391,cash@quick-loan.example,Claim your reward,Congratulations! You won a free gift. Claim your prize now.,spam
+EMAIL0258,team@work.example,Meeting update,Your order has shipped and should arrive on Friday. Thank you.,not spam
